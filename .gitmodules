@@ -1,0 +1,3 @@
+[submodule "0_scavenger_hunt/scavenger_hunt"]
+	path = 0_scavenger_hunt/scavenger_hunt
+	url = https://github.com/pushingice/scavenger-hunt

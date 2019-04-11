@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+filename=$1
+amount=0
+for i in *.pdf; do
+	let amount=$((count+1))
+done
+echo $amount
