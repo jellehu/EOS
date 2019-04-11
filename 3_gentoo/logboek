@@ -1,0 +1,14 @@
+Opstarten, geklikt op f1 (denk ik), command gekozen te booten: 'gentoo'.
+Pingen naar google werkt, verder geen instellingen veranderd bij netwerk.
+
+GPT label op de disk gezet.
+Instructies gevolgd op de wiki, harde schijf heeft nu 4 delen.
+Filesystems gemaakt volgens de uitleg en root gemount.
+
+Instructies gevolgd, ik had wat problemen met 'links', maar het is goed gekomen.
+
+De CFLAGS en de CXXFLags geven de optimalisatie flags voor GCC en C++. 
+MAKEOPTS bepaalt hoeveel paralelle compilaties er voorkomen bij het installeren.
+Ik heb de MAKEOPTS toegevoegd.
+Instructies gevolgd verder.
+@world updaten zodat updates kunnen worden uitgevoerd.
